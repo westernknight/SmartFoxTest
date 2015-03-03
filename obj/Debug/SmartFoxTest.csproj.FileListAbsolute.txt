@@ -1,0 +1,6 @@
+D:\zhangjiajun\studio\SmartFoxTest\trunk\bin\Debug\SmartFoxTest.exe
+D:\zhangjiajun\studio\SmartFoxTest\trunk\bin\Debug\SmartFoxTest.pdb
+D:\zhangjiajun\studio\SmartFoxTest\trunk\bin\Debug\SmartFox2X.dll
+D:\zhangjiajun\studio\SmartFoxTest\trunk\obj\Debug\SmartFoxTest.csprojResolveAssemblyReference.cache
+D:\zhangjiajun\studio\SmartFoxTest\trunk\obj\Debug\SmartFoxTest.exe
+D:\zhangjiajun\studio\SmartFoxTest\trunk\obj\Debug\SmartFoxTest.pdb
